@@ -34,8 +34,8 @@ header.top {
 header.top .logo {
   width: 32px;
   height: 32px;
-  border-radius: 9px;
-  background: linear-gradient(135deg, var(--accent), #ff5f6d);
+  border-radius: 22%;
+  object-fit: cover;
   flex-shrink: 0;
 }
 
